@@ -1,0 +1,9 @@
+file_name,experiment_id,genotype_id,general_notes,total_sweeps,sweep_duration_sec,event_threshold,first_stim,num_of_stim,stim_isi,condition_1_name,condition_1_start,condition_1_end,condition_2_name,condition_2_start,condition_2_end,condition_3_name,condition_3_start,condition_3_end,condition_4_name,condition_4_start,condition_4_end,condition_5_name,condition_5_start,condition_5_end,condition_6_name,condition_6_start,condition_6_end
+16727002_MA,GrC_eAP_inc,rat,,218,1,0,415.5,3,10,control,1,30,muscarine,35,64,atropine,80,109,GABAzine,125,154,NBQX,197,218,NULL,NULL,
+16727004_MA,GrC_eAP_inc,rat,,297,1,0,415.5,3,10,control,20,49,muscarine,67,96,atropine,151,180,GABAzine,241,270,NBQX,275,297,NULL,NULL,
+16729003_MA,GrC_eAP_dec,rat,,199,1,0,415.5,3,10,control,1,30,muscarine,35,64,atropine,70,99,GABAzine,125,154,NBQX,170,199,NULL,NULL,
+16729004_MA,GrC_eAP_dec,rat,,194,1,0,415.5,3,10,control,1,30,muscarine,50,79,atropine,95,124,GABAzine,140,169,NBQX,172,194,NULL,NULL,
+16729005_MA,GrC_eAP_inc,rat,,178,1,0,415.5,3,10,control,1,30,muscarine,45,74,atropine,85,114,GABAzine,126,155,NBQX,160,178,NULL,NULL,
+16729006_MA,GrC_eAP_dec,rat,,248,1,0,415.5,3,10,control,1,30,muscarine,50,79,atropine,100,129,GABAzine,161,190,NBQX,200,229,NULL,NULL,
+17307000_analysis_MA,GrC_eAP_NS_inc,rat,issue during musc analyze these sweeps 37to54 and 59to80,221,5,0,278.18,3,10,control,1,30,muscarine,40,69,atropine,86,115,GABAzine,156,185,NBQX,192,221,NULL,NULL,
+17307002_analysis_MA,GrC_eAP_NS_inc,rat,,191,5,0,278.18,3,10,control,1,30,muscarine,38,67,atropine,86,115,GABAzine,136,165,NBQX,170,191,NULL,NULL,
