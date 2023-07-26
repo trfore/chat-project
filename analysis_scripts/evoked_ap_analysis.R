@@ -3,6 +3,9 @@
 library(matools)
 library(tidyverse)
 
+# Script Set Project Directory ----
+here::i_am("analysis_scripts/evoked_ap_analysis.R")
+
 # Project Data Processing ----
 data_path <- paste(getwd(), "data/cell_attached_grc_evoked_ap", sep = "/")
 data_folder <- paste(data_path, "data", sep = "/")
