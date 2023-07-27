@@ -4,7 +4,7 @@
 
 These are the analysis files used in the following publication:
 
-- Taylor R Fore et al. (2020) "Acetylcholine modulates cerebellar granule cell spiking by regulating the balance of synaptic excitation and inhibition" Journal of Neuroscience
+- Taylor R Fore et al. "Acetylcholine modulates cerebellar granule cell spiking by regulating the balance of synaptic excitation and inhibition" Journal of Neuroscience 1 April 2020, DOI: https://doi.org/10.1523/JNEUROSCI.2148-19.2020
 
 ## How to Use
 
